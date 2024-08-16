@@ -443,7 +443,7 @@ p{
 
 .creditos{
   width: 100%;;
-  height: 2000px;
+  height: 250vh;
   display: flex;
   justify-content: center;
   flex-direction: column;
