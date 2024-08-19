@@ -396,6 +396,7 @@ img{
   padding: 1%;
   word-wrap: break-word;
   overflow: hidden;
+  line-height: 300%;
 }
 
 .texto-imagem{
@@ -425,6 +426,7 @@ img{
   padding: 1%;
   word-wrap: break-word;
   overflow: hidden;
+  line-height: 300%;
 }
 
 .imagem-logo-mini{
@@ -495,4 +497,10 @@ p{
 .texto-legenda{
   padding: 0;
   margin: 0;
+}
+
+.paragrafo{
+  text-indent: 2%;
+  margin: 1%;
+  text-align: justify;
 }
